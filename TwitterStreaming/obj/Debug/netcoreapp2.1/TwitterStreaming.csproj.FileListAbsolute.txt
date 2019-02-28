@@ -1,0 +1,120 @@
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csprojAssemblyReference.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CoreCompileInputs.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfoInputs.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.deps.json
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.json
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.dev.json
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.dll
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.input.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.output.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorCoreGenerate.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cache
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreaming\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CopyComplete
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.deps.json
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.json
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.dev.json
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.dll
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csprojAssemblyReference.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CoreCompileInputs.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfoInputs.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfo.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.input.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.output.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorCoreGenerate.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cache
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cs
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreamingTest\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CopyComplete
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.deps.json
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.json
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.dev.json
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.dll
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csprojAssemblyReference.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CoreCompileInputs.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfoInputs.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.input.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.output.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorCoreGenerate.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cache
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreaming- SignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CopyComplete
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.deps.json
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.json
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.runtimeconfig.dev.json
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.dll
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\bin\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csprojAssemblyReference.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CoreCompileInputs.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorAssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfoInputs.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.AssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.input.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.TagHelpers.output.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorCoreGenerate.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cache
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.RazorTargetAssemblyInfo.cs
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.Views.pdb
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.dll
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.pdb
+C:\TwitterStream\TwitterStreaming- RealTimeAppSignalR\TwitterStreaming\obj\Debug\netcoreapp2.1\TwitterStreaming.csproj.CopyComplete

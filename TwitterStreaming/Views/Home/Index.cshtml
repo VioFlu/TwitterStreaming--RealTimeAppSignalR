@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+        jQuery(document).ready(function () {
+            jQuery.ajax({
+                url: 'https://localhost:44309/api/Twitter/',
+                type: "GET",
+                contentType: 'application/json; charset=utf-8',
+                success: function (resultData) {
+                    for (var rows = 0; rows < resultData.length; rows++) {
+                        var urlTweet = "#"
+                        if (typeof resultData[rows]["tweetUrl"][0] != undefined && resultData[rows]["tweetUrl"][0])
+                            urlTweet = resultData[rows]["tweetUrl"][0].url
+                        $("#container").append("<li class='row'>" + resultData[rows]["usrName"] + "   "
+                            + "<a href='" + urlTweet + "'>" + resultData[rows]["tweetText"] + "</a></li>");
+
+                        //};
+                    };
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                },
+                timeout: 120000,
+            });
+        })
+
+               //var interval = setInterval(function () { myFunction(); }, 6000);
+    </script>
+}
+<h2 class="bg-info">Nasa tweets</h2>
+<input type="text" id="myFilter"  class="form-control" placeholder="Search for tweets.." title="Type in">
+<ul id="container"></ul>
+<script src="~/lib/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/site.js"></script>
+
+
+
